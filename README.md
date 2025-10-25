@@ -1,4 +1,17 @@
-🎌 AnimeVerse – Anime OTT Streaming Platform
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>Select Language</title>
+</head>
+<body>
+  
+
+
+
+<h1>🎌 AnimeVerse – Anime OTT Streaming Platform</h1>
 
 Welcome to AnimeVerse, a fully responsive and visually stunning Anime OTT Platform built using HTML, CSS, and JavaScript.
 Enjoy your favorite anime with categories, ratings, and a smooth user experience — all in one beautiful interface! 🌸
@@ -90,6 +103,8 @@ AnimeVerse/
 
 
 Add search and filter functionality
+</body>
+</htm>
 
 Integrate real anime APIs for live data
 
