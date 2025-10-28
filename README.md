@@ -55,3 +55,32 @@ Clone the repository:
 ```bash
 git clone https://github.com/yourusername/anime-ott-platform.git
 cd anime-ott-platform
+Then, open index.html in your browser to explore the platform.
+
+🧩 Project Structure
+pgsql
+Copy code
+AnimeVerse/
+│
+├── index.html
+├── login.html
+├── contact.html
+├── style.css
+├── script.js
+├── assets/
+│   ├── images/
+│   ├── videos/
+│   └── icons/
+└── README.md
+💡 Future Enhancements
+Add search and filter functionality
+
+Integrate real anime APIs for live data
+
+Add user authentication (login/signup system)
+
+Include watchlist and favorites features
+
+👩‍💻 Developer
+Developed by: Jeyasri K
+📧 Email: jeyasrik1703@gmail.com
